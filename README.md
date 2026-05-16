@@ -149,16 +149,6 @@ timestamp,cpu_percent,ram_percent,disk_percent
 2026-05-16 12:18:27,0.8,58.9,22.8
 ```
 
----
-
-## Interview Talking Points
-
-**Sai:** *"I deployed a real-time server monitoring agent on Raspberry Pi that collects CPU, RAM, and disk metrics every minute via Python psutil, stores them in SQLite, and auto-pushes to GitHub hourly via cron. I also set up Netdata for live second-by-second monitoring — same concept as Nagios but built and configured from scratch."*
-
-**Seema:** *(to be added after dashboard is complete)*
-
----
-
 ## Authors
 
 | Name | Role | GitHub |
