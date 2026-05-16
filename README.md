@@ -164,4 +164,5 @@ timestamp,cpu_percent,ram_percent,disk_percent
 | Name | Role | GitHub |
 |---|---|---|
 | Sai Surendra Munagala | Infrastructure & Backend | [@saisurendra13](https://github.com/saisurendra13) |
-| Shaik Seema Kousar | Analytics & Dashboard | *(link to be added)* |
+| Shaik Seema Kousar | Analytics & Dashboard | [@shaikseemakousar] |
+(https://github.com/shaikseemakousar)    
