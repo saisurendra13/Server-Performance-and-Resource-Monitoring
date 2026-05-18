@@ -368,9 +368,9 @@ pip3 install -r requirements.txt
 | Alert System | Completed |
 | Cron Automation | Completed |
 | GitHub Automation | Completed |
-| SQL Analysis | In Progress |
-| Jupyter Notebook EDA | In Progress |
-| Power BI Dashboard | In Progress |
+| SQL Analysis | Completed |
+| Jupyter Notebook EDA | Completed |
+| Power BI Dashboard | Completed |
 
 ---
 
